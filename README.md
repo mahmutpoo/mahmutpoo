@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutpoo)](https://github.com/mahmutpoo/github-readme-stats)
 - 📫 How to reach me **polatbey395@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
